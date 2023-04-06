@@ -1,0 +1,3919 @@
+{
+  "breaches": 667,
+  "domains": 625,
+  "results": [
+    {
+      "domain": "000webhost.com",
+      "url": "https://000webhost.com/",
+      "ok": false,
+      "status": 403,
+      "statusText": "Forbidden"
+    },
+    {
+      "domain": "123rf.com",
+      "url": "https://www.123rf.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "126.com",
+      "url": "https://126.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "163.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://163.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "17173.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://17173.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "17app.co",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://17app.co/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "2fast4u.be",
+      "url": "https://2fast4u.be/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "500px.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://500px.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "7k7k.com",
+      "url": "http://www.7k7k.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "8fit.com",
+      "url": "https://8fit.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "8tracks.com",
+      "url": "https://8tracks.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "OwnedCore.com",
+      "url": "https://www.ownedcore.com/forums/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "abandonia.com",
+      "error": "page.goto: NS_ERROR_CONNECTION_REFUSED\n=========================== logs ===========================\nnavigating to \"https://abandonia.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "abfrl.com",
+      "url": "https://www.abfrl.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "abusewith.us",
+      "url": "https://abusewith.us/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "acne.org",
+      "url": "https://www.acne.org/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "actmobile.com",
+      "url": "https://actmobile.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "adapt.io",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://adapt.io/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "adecco.com",
+      "url": "https://www.adecco.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "adobe.com",
+      "url": "https://www.adobe.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "adult-fanfiction.org",
+      "url": "https://adult-fanfiction.org/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "adultfriendfinder.com",
+      "url": "https://adultfriendfinder.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "aerserv.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://aerserv.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "agusiq-torrents.pl",
+      "error": "page.goto: SSL_ERROR_UNKNOWN\n=========================== logs ===========================\nnavigating to \"https://agusiq-torrents.pl/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "ahashare.com",
+      "error": "page.goto: SSL_ERROR_UNKNOWN\n=========================== logs ===========================\nnavigating to \"https://ahashare.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "aimware.net",
+      "url": "https://aimware.net/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "aipai.com",
+      "url": "https://www.aipai.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "aitype.com",
+      "error": "page.goto: SSL_ERROR_UNKNOWN\n=========================== logs ===========================\nnavigating to \"https://aitype.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "ajarn.com",
+      "url": "https://www.ajarn.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "akparti.org.tr",
+      "url": "https://akparti.org.tr/",
+      "ok": false,
+      "status": 403,
+      "statusText": "Forbidden"
+    },
+    {
+      "domain": "amartfurniture.com.au",
+      "url": "https://www.amartfurniture.com.au/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "ancestry.com",
+      "url": "https://www.ancestry.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "androidforums.com",
+      "url": "https://androidforums.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "animaljam.com",
+      "url": "https://www.animaljam.com/en",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "anime-planet.com",
+      "url": "https://www.anime-planet.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "animegame.me",
+      "url": "http://ww1.animegame.me/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "animoto.com",
+      "url": "https://animoto.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "apollo.io",
+      "url": "https://www.apollo.io/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "appartoo.com",
+      "url": "https://www.appartoo.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "appen.com",
+      "url": "https://appen.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "aptoide.com",
+      "url": "https://en.aptoide.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "armorgames.com",
+      "url": "https://armorgames.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "armyforceonline.com",
+      "error": "page.goto: SSL_ERROR_UNKNOWN\n=========================== logs ===========================\nnavigating to \"https://armyforceonline.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "artsy.net",
+      "url": "https://www.artsy.net/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "artvalue.com",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://artvalue.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "ashleymadison.com",
+      "url": "https://www.ashleymadison.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "astoriacompany.com",
+      "url": "https://www.astoriacompany.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "astropid.com",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://astropid.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "aternos.org",
+      "url": "https://aternos.org/:en/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "atlasquantum.com",
+      "url": "http://galotop1.com/r2.php?e=Shr%2BMKKBYKyv7Q25tUW0mH49fnVpYVhDQWJmdFVRc29Vd0Q1Mkg3a2FTNFBSR2tkL1hVNXI0bDRzUFZweWZpTGJ5TVVUcmxEd1FIL0E3WVp2bEpobVdPbGY3UGY5VlBSVzIvZjAwYVp3UStHNkNrTzRGdjgyUUpZSFZCRUZKR0FtU05vQnBiZWU0ZFk4TzgzeWN2OUhVdVZ4d0c1MHQwK3cra3VScURzVjUvRkU3c1BFcUpoREVRcWxzSTdMQW1QeGR0WDV5bE5vZ0UwOHZ2MlJHZG1iRmNLTHMweTNaRytlSHdHeFYrbXRhRGZZZ2JTQ2RQNm82eW1FN1N6NG0zMVVORHArdHVJV1piYksvVVNYQWRZZk9sMVY1d2ZPNnpuZWJpeGs1SXdiZzdVS2JrclVTOGVQSU1hdDBib1B5TmxlWFJIY0dsUmltNWVCT1pVNkFmVW5uakVPQWl0T0NkT1J1RGNMcExjMVNkVEtaM1V5R2pFbk9WdjZ1K09IUEM1TEF4aVByZEJFMWgrbFVWR1VNQ3FiM0tyS1o5NXppOUpXTit0U3RpdklVVVhzVzVYNEJpWng1WUlpZnpTKzZUSnJQZ0wvb0xJeTZGbFJqdFBwUHdWSHBqTTRoY09wUDVlUThneTJ5YW53ZzlFT2NyQzVwY2JGb3RvT1IraVJDcXZVcTdPOGREeEJNYmMxa09NY3plZEw5NmdTT1pmOU1tOGJGQ2I0SEJScHJ4dDJVNVVrb1dkU3lWTXpwUWhRaC9nMUpuOHlYbUY1Mnk4OHF4R1hNcURxNFBpSWwrMVZzWUZXTFJFQ1dUYjlHWUw5bjFLZ2llWjJucitHUmFYUEMrbHNpVEU3OGUvMTk3cGlRQ29kdWtUbVdiQzNPZnZLK0JKRzJKeDlBUXI4OCtKVElwT0o3OVlkUVBITC9QSEJoT0h0Vno5OUp0SjlNZzU3QytnVC9ycWFaSnpQaGNLT0lWS0F5dHdlSTArZUNJdHJDTmJBRmZ4WmNSV3U0dDE0VGwydit6RkNJSHZJY0U1eXdVU2s4UmJ4SjEvemQ1L0E3V0pUMUVrK1FqdCszZHkwVEtnakNEUVVVRHBVUE4xbHBjQzFLRzRDSFBLWStIZnBvS0lRRTVGakpKVnpEeTFPdHl3K0NnMTU0ZE1wUEdCdXJOaHM4TU1QRXp4T09GeFU2TWVPbEZBd1p6K2VuR3dDcTh6Ty93TTRlYUxnRlUwZk96V2ZlS1RsRWZmUT09",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "audiusa.com",
+      "url": "https://www.audiusa.com/us/web/en.html",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "autocentrum.pl",
+      "url": "https://www.autocentrum.pl/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "autotrader.com",
+      "url": "https://www.autotrader.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "avast.com",
+      "url": "https://www.avast.com/en-ca/index",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "avvo.com",
+      "url": "https://www.avvo.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "babynames.com",
+      "url": "https://babynames.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "badoo.com",
+      "url": "https://badoo.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "bannerbit.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://bannerbit.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "banorte.com",
+      "url": "https://www.banorte.com/wps/portal/banorte/Home/inicio",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "battlefieldheroes.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://battlefieldheroes.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "battlefy.com",
+      "url": "https://battlefy.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "beautifulpeople.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://beautifulpeople.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "bell.ca",
+      "url": "https://www.bell.ca/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "benchmark.rs",
+      "url": "https://benchmark.rs/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "bestialitysextaboo.com",
+      "url": "https://www.bestialitysextaboo.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "bhinneka.com",
+      "url": "https://www.bhinneka.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "bigbasket.com",
+      "url": "https://www.bigbasket.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "bigmoneyjobs.com",
+      "error": "page.goto: SEC_ERROR_EXPIRED_CERTIFICATE\n=========================== logs ===========================\nnavigating to \"https://bigmoneyjobs.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "binweevils.com",
+      "url": "https://chinlingphotography.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "biohack.me",
+      "url": "https://biohack.me/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "bitcointalk.org",
+      "url": "https://bitcointalk.org/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "bitly.com",
+      "url": "https://bitly.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "bittorrent.com",
+      "url": "https://www.bittorrent.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "blackberryfans.org",
+      "error": "page.goto: NS_ERROR_CONNECTION_REFUSED\n=========================== logs ===========================\nnavigating to \"https://blackberryfans.org/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "blackhatworld.com",
+      "url": "https://www.blackhatworld.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "blackspigot.com",
+      "url": "https://blackspigot.com/",
+      "ok": false,
+      "status": 403,
+      "statusText": "Forbidden"
+    },
+    {
+      "domain": "blankmediagames.com",
+      "url": "https://www.blankmediagames.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "bluesnap.com",
+      "url": "https://home.bluesnap.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "bolt.cd",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://bolt.cd/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "bombuj.eu",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://bombuj.eu/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "bonobos.com",
+      "url": "https://bonobos.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "bookchor.com",
+      "url": "https://bookchor.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "bookmate.com",
+      "url": "https://bookmate.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "botoflegends.com",
+      "url": "https://botoflegends.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "bourse-des-vols.com",
+      "url": "https://www.bourse-des-vols.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "brandnewtube.com",
+      "url": "https://brandnewtube.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "brazzers.com",
+      "url": "https://www.brazzers.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "btc-alpha.com",
+      "url": "https://btc-alpha.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "btc-e.com",
+      "error": "page.goto: NS_ERROR_CONNECTION_REFUSED\n=========================== logs ===========================\nnavigating to \"https://btc-e.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "btobet.com",
+      "url": "https://www.btobet.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "bukalapak.com",
+      "url": "https://www.bukalapak.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "businessacumen.biz",
+      "url": "https://www.businessacumen.biz/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "cafemom.com",
+      "url": "https://cafemom.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "cafepress.com",
+      "url": "https://www.cafepress.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "cannabis.com",
+      "url": "https://weedmaps.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "canva.com",
+      "url": "https://www.canva.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "capitaleconomics.com",
+      "url": "https://www.capitaleconomics.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "cardmafia.cc",
+      "url": "https://cardmafia.cc/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "cashcrate.com",
+      "url": "https://cashcrate.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "catho.com.br",
+      "url": "https://www.catho.com.br/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "cdek.ru",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://cdek.ru/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "cdprojektred.com",
+      "url": "https://www.cdprojektred.com/en",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "cfire.mail.ru",
+      "url": "https://cfire.ru/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "chatbooks.com",
+      "url": "https://chatbooks.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "cheapassgamer.com",
+      "url": "https://www.cheapassgamer.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "chegg.com",
+      "url": "https://www.chegg.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "chowbus.com",
+      "url": "https://www.chowbus.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "cit0day.in",
+      "url": "http://galotop1.com/r2.php?e=edggUe%2F%2FjWlOeb%2FtxiyGwX49fnQ4Y0I1bjg2djB1L1FhU25VYStlM1RYandKUEFrZEMyUG1pdHdFN1dkaTl0cnpaaVowdUZDeXB5ajkvS2VGUzB3NG85ZzdlbzV4NUhTY05Ka0JDSGtQNHgveEJOUzJBZWMrZTVNSFdXVEV0OFQrTG8xalphMXNubENWaGJxQnRpZitVZTkrejdsZERNc05FTVVDVzZCUFd1cDFzK1hMSEJ4R1B2NHpyTitIOTRlRmxIRzNkeTZaWG5MSzg1L3FxYmUxVTRsZ0F5T2pRT2E3YTdqalVUazcwVmlFQ0d0WklsdzZwWkM2M2thU2RaK0hzNDNqN2R6QUlkVjRNOXBscjVTS2FzLzBwalBVcUxpWHJKOFNjZUJrVm56QnNYS1RuOG9NODE4d2IxekxweGVWUzZsZGlzTUd3ZUdlQnBvR1EwVFBHek8yMTkxS0FTSE9XWG5BM1hqUFNvN21KV1lvRGc0cjU3RFluSmNxVVhNc3FzVGlGRmUvU1hGMnQ2a1k0TGNuOWVQKzN6VlJUeEJOcXdaSjB6VHl5a0dUbHdwUnJHT0IweHhxbWEvVmo0Yi9ZUG1Id1gwaTJ4L2ROeStJeUdGa2NYTWVzSUxvR3pTZUh6SHI2Z2RHdzdCaEtaanBVcDE4N015ZnlFUDZLUTRCMTNOc1JUNXJTSUtzZzI5QWM0em83cEo3Ynk5WkhuM1dORW16Q1VXR0s1dDR0KzFIK3hxWW5xeUxpRnE1dTRjVnFWTWwwWUxJdDV5OWVkcWEyY0pRS3F4cUFmVnBZaFEzZGVhdVFqZ2lKRkZDSC9tZU94R211REZVcXc5dm5ybWlNbERub3RvWFhVSk01MERPOEc1dHJ3OGZacEw3TnhuR0RmMExTK2R4cEN5ZTFwVjE4K0U3L0xYcmFBWGN0YUdJZjdVNEkvTU9aV0cwdmF0RWdYQ3N3c0JwTzlOeTNOK284MWFhc3B1M3g4MVFQTE1GZzN1UnFqWXRXWm1aND0%3D",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "citybee.lt",
+      "url": "https://citybee.lt/lt/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "clearvoicesurveys.com",
+      "url": "https://clearvoicesurveys.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "clixsense.com",
+      "url": "https://www.ysense.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "cloudpets.com",
+      "url": "https://cloudpets.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "co188.com",
+      "url": "https://www.co188.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "coachella.com",
+      "url": "https://coachella.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "coinmama.com",
+      "url": "https://www.coinmama.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "coinmarketcap.com",
+      "url": "https://coinmarketcap.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "cointracker.io",
+      "url": "https://www.cointracker.io/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "comcast.net",
+      "error": "page.goto: NS_ERROR_CONNECTION_REFUSED\n=========================== logs ===========================\nnavigating to \"https://comcast.net/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "comelec.gov.ph",
+      "url": "https://comelec.gov.ph/",
+      "ok": false,
+      "status": 403,
+      "statusText": "Forbidden"
+    },
+    {
+      "domain": "convex.ru",
+      "url": "https://berez.convex.ru/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "covve.com",
+      "url": "https://covve.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "cprewritten.net",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://cprewritten.net/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "crackcommunity.com",
+      "url": "https://crackcommunity.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "cracked.to",
+      "url": "https://cracked.io/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "crackingforum.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://crackingforum.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "creative.com",
+      "url": "https://ca.creative.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "ctars.com.au",
+      "url": "https://ctars.com.au/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "cyberserve.co.il",
+      "url": "https://cyberserve.co.il/",
+      "ok": false,
+      "status": 403,
+      "statusText": "Forbidden"
+    },
+    {
+      "domain": "d3scene.com",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://d3scene.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "dafont.com",
+      "url": "https://www.dafont.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "dailymotion.com",
+      "url": "https://www.dailymotion.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "dailyobjects.com",
+      "url": "https://www.dailyobjects.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "dailyquiz.me",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://dailyquiz.me/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "dangdang.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://dangdang.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "daniweb.com",
+      "url": "https://www.daniweb.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "data4marketers.com",
+      "url": "https://data4marketers.com/cgi-sys/suspendedpage.cgi",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "datacamp.com",
+      "url": "https://www.datacamp.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "datanleads.com",
+      "error": "page.goto: SSL_ERROR_UNKNOWN\n=========================== logs ===========================\nnavigating to \"https://datanleads.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "datpiff.com",
+      "url": "https://datpiff.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "dave.com",
+      "url": "https://dave.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "ddo.com",
+      "url": "https://www.ddo.com/home",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "deezer.com",
+      "url": "https://www.deezer.com/us/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "demonforums.net",
+      "url": "https://demonforums.net/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "descomplica.com.br",
+      "url": "https://descomplica.com.br/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "devil-torrents.pl",
+      "url": "https://devil-torrents.pl/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "devkitpro.org",
+      "url": "https://devkitpro.org/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "diet.com",
+      "url": "https://diet.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "digimon.co.in",
+      "url": "http://digimon.co.in/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "disqus.com",
+      "url": "https://disqus.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "divxsubtitles.net",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://divxsubtitles.net/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "dlh.net",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://dlh.net/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "dodonew.com",
+      "error": "page.goto: SSL_ERROR_UNKNOWN\n=========================== logs ===========================\nnavigating to \"https://dodonew.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "dominos.co.in",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://dominos.co.in/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "doomworld.com",
+      "url": "https://www.doomworld.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "doordash.com",
+      "url": "https://www.doordash.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "doxbin.com",
+      "error": "page.goto: NS_ERROR_CONNECTION_REFUSED\n=========================== logs ===========================\nnavigating to \"https://doxbin.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "drivesure.com",
+      "url": "https://drivesure.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "drizly.com",
+      "url": "https://drizly.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "dropbox.com",
+      "url": "https://www.dropbox.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "dubsmash.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://dubsmash.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "ducks.org",
+      "url": "https://ducks.org/home.html",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "duelingnetwork.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://duelingnetwork.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "dunzo.com",
+      "url": "https://www.dunzo.com/bangalore",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "duowan.com",
+      "url": "https://duowan.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "dvd-shop.ch",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://dvd-shop.ch/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "eatigo.com",
+      "url": "https://eatigo.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "eatstreet.com",
+      "url": "https://eatstreet.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "edmodo.com",
+      "error": "page.goto: NS_ERROR_NET_INTERRUPT\n=========================== logs ===========================\nnavigating to \"https://edmodo.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "elance.com",
+      "url": "https://www.upwork.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "elanic.in",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://elanic.in/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "emuparadise.me",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://emuparadise.me/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "epal.gg",
+      "url": "https://www.epal.gg/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "epicbot.com",
+      "url": "https://epicbot.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "epicgames.com",
+      "url": "https://store.epicgames.com/en-US/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "epicnpc.com",
+      "url": "https://www.epicnpc.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "epik.com",
+      "url": "https://www.epik.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "eroticy.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://eroticy.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "eservices.durban.gov.za",
+      "url": "https://eservices.durban.gov.za/v2/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "eskimi.com",
+      "url": "https://www.eskimi.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "ethereum.org",
+      "url": "https://ethereum.org/en/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "europa.jobs",
+      "url": "https://en.europa.jobs/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "evermotion.org",
+      "url": "https://evermotion.org/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "everybodyedits.com",
+      "url": "https://everybodyedits.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "evite.com",
+      "url": "https://www.evite.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "evony.com",
+      "url": "https://www.evony.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "exactis.com",
+      "error": "page.goto: SEC_ERROR_EXPIRED_CERTIFICATE\n=========================== logs ===========================\nnavigating to \"https://exactis.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "experian.com",
+      "url": "https://www.experian.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "eye4fraud.com",
+      "url": "https://eye4fraud.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "eyeem.com",
+      "url": "https://www.eyeem.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "f.elex.com",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://f.elex.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "facebook.com",
+      "url": "https://www.facebook.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "facepunch.com",
+      "url": "https://facepunch.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "faceup.dk",
+      "url": "https://faceup.dk/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "factual.com",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://factual.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "famm.us",
+      "url": "https://famm.us/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "fanpass.co.uk",
+      "url": "https://www.fanpass.co.uk/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "fantasyfootballhub.co.uk",
+      "url": "https://www.fantasyfootballhub.co.uk/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "fashionfantasygame.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://fashionfantasygame.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "fashionnexus.co.uk",
+      "error": "page.goto: SSL_ERROR_UNKNOWN\n=========================== logs ===========================\nnavigating to \"https://fashionnexus.co.uk/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "ffshrine.org",
+      "url": "https://ffshrine.org/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "fhostingesps6bly.onion",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://fhostingesps6bly.onion/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "filmai.in",
+      "url": "https://filmai.in/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "flashback.se",
+      "url": "https://flashback.se/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "flashflashrevolution.com",
+      "url": "https://www.flashflashrevolution.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "flexbooker.com",
+      "url": "https://www.flexbooker.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "fling.com",
+      "url": "https://www.fling.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "flvs.net",
+      "url": "https://flvs.net/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "flytap.com",
+      "url": "https://www.flytap.com/en-ca/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "foodora.com",
+      "url": "https://www.foodora.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "forbes.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://forbes.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "forum.btcsec.com",
+      "url": "https://forum.bits.media/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "forumcommunity.net",
+      "url": "https://www.forumcommunity.net/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "forums.boxee.com",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://forums.boxee.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "fotolog.com",
+      "url": "https://www.fotolog.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "foxybingo.com",
+      "url": "https://www.foxybingo.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "freshmenu.com",
+      "url": "https://www.freshmenu.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "fridae.asia",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://fridae.asia/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "funimation.com",
+      "url": "https://www.funimation.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "funny-games.biz",
+      "url": "https://www.funny-games.biz/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "furaffinity.net",
+      "url": "https://www.furaffinity.net/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "gaadi.com",
+      "url": "https://www.cardekho.com/sell-used-car",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "gab.com",
+      "url": "https://gab.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "game-tuts.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://game-tuts.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "gamerzplanet.net",
+      "error": "page.goto: SSL_ERROR_UNKNOWN\n=========================== logs ===========================\nnavigating to \"https://gamerzplanet.net/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "gamesalad.com",
+      "url": "https://gamesalad.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "gamigo.com",
+      "url": "https://en.gamigo.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "gatehub.net",
+      "url": "https://gatehub.net/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "gawker.com",
+      "url": "https://www.gawker.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "ge.tt",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://ge.tt/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "geekedin.net",
+      "url": "https://track.vcdc.com/proceed.php?domain=geekedin.net&hash=0fae8a1d145c58305491201b9b390832&u=eyJkb21haW4iOiJnZWVrZWRpbi5uZXQiLCJkb21haW5faWQiOiIxODg2MDU3MSIsImZvbGRlcl9pZCI6bnVsbCwibWlkIjoiMTUxIiwiZmlsdGVyX2lkIjpudWxsLCJhZHZlcnRpc2VyX2lkIjoiMTMyIiwidGFyZ2V0IjoiaHR0cDpcL1wvd3d3LnRvcm9tY2xpY2suY29tXC9mZWVkXC9jbGlja1wvP3QxPTEyOCZ0aWQ9NjMxJnVpZD0zOSZzdWJpZD0xNTFfZ2Vla2VkaW4ubmV0JmlkPWJjNzM1ZDViODhmYzNkMWY0ZTFiNTNkNWJmYzIwNDRjOjZkMjU2NWNhZGUxNzNlNWI5ZmYwM2E4N2FiZjNlYTY5ZmUwMzQ4NGRkOWNlM2VhMzQ4YmUxYzMwZjZjNzRhZGQyMWEwNTRlNDA1MjY3M2I1NDEzOTVlMTNmZGMzNGI1ZWFlNDg4YjdiMzFmMTY2ZTM2MjA5N2I0ZTlkNzQ0YjE4NWE4NmM0ZDMxODhmMjUwZDM1NWJmMzg1ODE2YWVjODc4MjNhZWRjNjA1ZGYwNDc4ODZjYmM4YzFhNGUwNWFmN2M1OGY1MmUyZmQ2MTY3MzdjYjQ1NTY4NzkxMjQ4YTlmODM3M2QyOTE1ZDgxZDBiYjZkYWI4MzVjN2M2NjNiMjRkOWIyYjc3YjEzMDA1OWMxOWZiMWUyZDcxOGQyYmI2YTM3YzgzNDFkNTBmOTkxOTI2ODAxYTdmZDVhYzgwMTIzY2VmNmMwZWRlMmI1NGU1ZDJiYzgyNGQ5NmZkNzM4ZTc3YTVlNzk2MmM2NzcyNGZlZjUxMDFkMDZlZDllOGViMjQzMWJhMjFhN2UwYjAwZDFhY2FkMjg2MDY0Nzk5OTgwNmUzZTkxYTQ2Yjk0OWZhNjFlNTE1MTE0YzY4NGVmZTM2MzllMDY2ODg2ZTkxODMyODg1YmYyYjFjOWRiMDljMjIzNThmMmFiNGE2ZGY3NzgwMTk1ZDA4ZTdkMzMyN2MzZDJiZTY5MDI2MmM2OWI4ZmY0ZjNjZTVkMDI0MGQ1NDUiLCJpcF9hZGRyZXNzIjoiMjQuNjkuNjYuNDAiLCJ0eXBlIjoiamF2YV9yZWRpcmVjdCIsImJpZCI6IjAuMDQifQ==",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "gemini.com",
+      "url": "https://www.gemini.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "genesis.market",
+      "url": "https://genesis.market/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "geniusu.com",
+      "url": "https://www.geniusu.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "getrevengeonyourex.com",
+      "url": "https://getrevengeonyourex.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "gfan.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://gfan.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "ggcorp.me",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://ggcorp.me/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "ggumim.co.kr",
+      "url": "https://www.ggumim.co.kr/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "givesendgo.com",
+      "url": "https://www.givesendgo.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "glofox.com",
+      "url": "https://www.glofox.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "gogames.me",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://gogames.me/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "goldsilver.com",
+      "url": "https://goldsilver.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "gonitro.com",
+      "url": "https://gonitro.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "gpotato.com",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://gpotato.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "gpsunderground.com",
+      "url": "https://gpsunderground.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "gravatar.com",
+      "url": "https://en.gravatar.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "gtagaming.com",
+      "url": "https://gtagaming.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "gunauction.com",
+      "url": "https://gunauction.com/",
+      "ok": false,
+      "status": 403,
+      "statusText": "Forbidden"
+    },
+    {
+      "domain": "guns.com",
+      "url": "https://www.guns.com/",
+      "ok": false,
+      "status": 403,
+      "statusText": "Forbidden"
+    },
+    {
+      "domain": "guntrader.uk",
+      "url": "https://www.guntrader.uk/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "hackforums.net",
+      "url": "https://hackforums.net/",
+      "ok": false,
+      "status": 403,
+      "statusText": "Forbidden"
+    },
+    {
+      "domain": "hackingteam.com",
+      "url": "https://hackingteam.com/",
+      "ok": false,
+      "status": 526,
+      "statusText": "No Reason Phrase"
+    },
+    {
+      "domain": "hautelook.com",
+      "url": "https://www.nordstromrack.com/events/all?hautelook_redirect=1",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "havenly.com",
+      "url": "https://havenly.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "hdbfs.com",
+      "url": "https://www.hdbfs.com/",
+      "ok": false,
+      "status": 406,
+      "statusText": "Not Acceptable"
+    },
+    {
+      "domain": "healthnow.co",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://healthnow.co/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "hemmakvall.se",
+      "url": "https://www.hemmakvall.se/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "hemmelig.com",
+      "url": "https://www.hemmelig.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "heroesofgaia.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://heroesofgaia.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "heroesofnewerth.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://heroesofnewerth.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "hiapk.com",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://hiapk.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "hltv.org",
+      "url": "https://www.hltv.org/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "homechef.com",
+      "url": "https://www.homechef.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "hongfire.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://hongfire.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "hookers.nl",
+      "url": "https://hookers.nl/",
+      "ok": false,
+      "status": 403,
+      "statusText": "Forbidden"
+    },
+    {
+      "domain": "hounddawgs.org",
+      "error": "page.goto: NS_ERROR_CONNECTION_REFUSED\n=========================== logs ===========================\nnavigating to \"https://hounddawgs.org/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "houzz.com",
+      "url": "https://www.houzz.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "htcmania.com",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://htcmania.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "hthstudios.com",
+      "url": "https://www.hthstudios.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "hub4tech.com",
+      "error": "page.goto: SSL_ERROR_UNKNOWN\n=========================== logs ===========================\nnavigating to \"https://hub4tech.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "hurb.com",
+      "url": "https://www.hurb.com/ca/",
+      "ok": false,
+      "status": 500,
+      "statusText": "Internal Server Error"
+    },
+    {
+      "domain": "i-dressup.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://i-dressup.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "idcgames.com",
+      "url": "https://en.idcgames.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "idtech.com",
+      "url": "https://www.idtech.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "iimjobs.com",
+      "url": "https://www.iimjobs.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "ilikecheats.net",
+      "url": "https://www.ilikecheats.net/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "imavex.com",
+      "url": "https://www.imavex.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "imesh.com",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://imesh.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "imgur.com",
+      "url": "https://imgur.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "indiamart.com",
+      "url": "https://www.indiamart.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "indianrails.in",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://indianrails.in/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "insanelyi.com",
+      "url": "http://ww12.insanelyi.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "instantcheckmate.com",
+      "url": "https://www.instantcheckmate.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "intelimost.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://intelimost.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "interpals.net",
+      "url": "https://interpals.net/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "intgovforum.org",
+      "url": "https://intgovforum.org/en",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "ipmart-forum.com",
+      "url": "https://ipmart-forum.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "ixigo.com",
+      "url": "https://www.ixigo.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "jamesdelivery.com.br",
+      "url": "https://jamesdelivery.com.br/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "jd.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://jd.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "jefit.com",
+      "url": "https://www.jefit.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "jobandtalent.com",
+      "url": "https://jobandtalent.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "jobstreet.com",
+      "url": "https://www.jobstreet.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "joomlart.com",
+      "url": "https://www.joomlart.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "jukinmedia.com",
+      "url": "https://www.jukinmedia.com/licensing",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "justdate.com",
+      "url": "https://justdate.com/",
+      "ok": false,
+      "status": 404,
+      "statusText": "Not Found"
+    },
+    {
+      "domain": "kickstarter.com",
+      "url": "https://www.kickstarter.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "kimsufi.com",
+      "url": "https://www.kimsufi.com/en-ca/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "kiwifarms.net",
+      "url": "https://kiwifarms.net/",
+      "ok": true,
+      "status": 203,
+      "statusText": "Non Authoritative"
+    },
+    {
+      "domain": "km.ru",
+      "url": "https://www.km.ru/",
+      "ok": false,
+      "status": 403,
+      "statusText": "Forbidden"
+    },
+    {
+      "domain": "knowncircle.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://knowncircle.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "knuddels.de",
+      "url": "https://www.knuddels.de/",
+      "ok": true,
+      "status": 200,
+      "statusText": ""
+    },
+    {
+      "domain": "komplettfritid.no",
+      "url": "https://komplettfritid.no/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "kreditplus.com",
+      "url": "https://kreditplus.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "lanwar.com",
+      "url": "https://lanwar.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "lapostemobile.fr",
+      "url": "https://lapostemobile.fr/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "last.fm",
+      "url": "https://www.last.fm/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "lbb.in",
+      "url": "https://lbb.in/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "lbsg.net",
+      "url": "https://www.lbsg.net/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "leagueoflegends.com",
+      "url": "https://www.leagueoflegends.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "leakedreality.com",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://leakedreality.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "ledger.com",
+      "url": "https://www.ledger.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "leet.cc",
+      "url": "https://leet.cc/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "lifebear.com",
+      "url": "https://lifebear.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "lightshope.org",
+      "url": "https://lightshope.org/",
+      "ok": false,
+      "status": 526,
+      "statusText": "No Reason Phrase"
+    },
+    {
+      "domain": "liker.com",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://liker.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "limevpn.com",
+      "url": "https://limevpn.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "linkedin.com",
+      "url": "https://www.linkedin.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "linuxforums.org",
+      "url": "https://culturemalta.org/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "linuxmint.com",
+      "url": "https://linuxmint.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "littlemonsters.com",
+      "url": "https://littlemonsters.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "liveauctioneers.com",
+      "url": "https://www.liveauctioneers.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "livejournal.com",
+      "url": "https://www.livejournal.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "livpure.com",
+      "url": "https://livpure.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "lizardstresser.su",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://lizardstresser.su/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "lolzteam.net",
+      "error": "page.goto: NS_ERROR_CONNECTION_REFUSED\n=========================== logs ===========================\nnavigating to \"https://lolzteam.net/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "lookbook.nu",
+      "url": "https://lookbook.nu/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "lotro.com",
+      "url": "https://www.lotro.com/home",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "loungeboard.net",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://loungeboard.net/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "luminpdf.com",
+      "url": "https://www.luminpdf.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "lyricsmania.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://lyricsmania.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "mac-forums.com",
+      "url": "https://www.mac-forums.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mac-torrents.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://mac-torrents.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "macg.co",
+      "url": "https://www.macg.co/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mail.ru",
+      "url": "https://mail.ru/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "majorgeeks.com",
+      "url": "https://www.majorgeeks.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mall.cz",
+      "url": "https://www.mall.cz/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "malwarebytes.org",
+      "url": "https://www.malwarebytes.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mangadex.org",
+      "url": "https://mangadex.org/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mangafox.me",
+      "url": "http://fanfox.net/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mangatoon.mobi",
+      "url": "https://mangatoon.mobi/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mangatraders.com",
+      "url": "https://mangatraders.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mappery.com",
+      "error": "page.goto: NS_ERROR_CONNECTION_REFUSED\n=========================== logs ===========================\nnavigating to \"https://mappery.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "mashable.com",
+      "url": "https://mashable.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mate1.com",
+      "url": "https://www.edate.com/registration",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mathway.com",
+      "url": "https://www.mathway.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mcbans.com",
+      "url": "https://www.mcbans.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mdpi.com",
+      "url": "https://www.mdpi.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mechodownload.com",
+      "error": "page.goto: SSL_ERROR_UNKNOWN\n=========================== logs ===========================\nnavigating to \"https://mechodownload.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "meetmindful.com",
+      "url": "https://www.meetmindful.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mgmresorts.com",
+      "url": "https://www.mgmresorts.com/en.html",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mindjolt.com",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://mindjolt.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "minecraftpeforum.net",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://minecraftpeforum.net/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "minecraftworldmap.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://minecraftworldmap.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "minefield.fr",
+      "url": "https://www.minefield.fr/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "minehut.com",
+      "url": "https://minehut.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "minted.com",
+      "url": "https://www.minted.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mmgfusion.com",
+      "url": "https://mmgfusion.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mobifriends.com",
+      "url": "https://www.mobifriends.com/en/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "modaco.com",
+      "url": "https://www.modaco.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "modbsolutions.com",
+      "error": "page.goto: NS_ERROR_CONNECTION_REFUSED\n=========================== logs ===========================\nnavigating to \"https://modbsolutions.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "moneybookers.com",
+      "url": "https://www.moneybookers.com/app/",
+      "ok": false,
+      "status": 404,
+      "statusText": "Not Found"
+    },
+    {
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "morele.net",
+      "url": "https://www.morele.net/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mortalonline.com",
+      "url": "https://mortalonline.squarespace.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mpgh.net",
+      "url": "https://www.mpgh.net/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mrexcel.com",
+      "url": "https://www.mrexcel.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "mspy.com",
+      "url": "https://www.mspy.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "muslimdirectory.co.uk",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://muslimdirectory.co.uk/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "muslimmatch.com",
+      "url": "https://www.muslimmatch.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "myfha.net",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://myfha.net/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "myfitnesspal.com",
+      "url": "https://www.myfitnesspal.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "myheritage.com",
+      "url": "https://www.myheritage.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "myrepospace.com",
+      "url": "https://myrepospace.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "myspace.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://myspace.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "myvidster.com",
+      "url": "https://www.myvidster.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "nap.bg",
+      "url": "https://nra.bg/wps/portal/nra/nachalo/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziAwLcHT3cLQwMLH18jA0CA7yNXbxDXA1cLcz0wwkpiAJKG-AAjgZA_VFgJbhMcDeFKsBjRkFuhEGmo6IiAIRUkd4!/dz/d5/L2dBISEvZ0FBIS9nQSEh/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "napsgear.org",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://napsgear.org/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "naughtyamerica.com",
+      "url": "https://www.naughtyamerica.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "nemoweb.net",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://nemoweb.net/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "neopets.com",
+      "url": "https://neopets.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "neteller.com",
+      "url": "https://www.neteller.com/en",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "netgalley.com",
+      "url": "https://www.netgalley.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "netlog.com",
+      "url": "https://netlog.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "netprospex.com",
+      "error": "page.goto: SEC_ERROR_EXPIRED_CERTIFICATE\n=========================== logs ===========================\nnavigating to \"https://netprospex.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "netshoes.com.br",
+      "url": "https://www.netshoes.com.br/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "nextgenupdate.com",
+      "url": "https://nextgenupdate.com/forums",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "nexusmods.com",
+      "url": "https://www.nexusmods.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "nihonomaru.net",
+      "url": "https://myiqcontestquiz.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "nival.com",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://nival.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "nonnudegirls.org",
+      "url": "http://ww38.nonnudegirls.org/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "nulled.ch",
+      "url": "http://ww25.nulled.ch/?subid1=20230407-0549-31a0-878e-7b44bd1dc228",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "nulled.cr",
+      "error": "page.goto: NS_ERROR_CONNECTION_REFUSED\n=========================== logs ===========================\nnavigating to \"https://nulled.cr/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "nurserycam.co.uk",
+      "url": "https://nurserycam.co.uk/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "nvidia.com",
+      "url": "https://www.nvidia.com/en-us/location-selector/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "ogusers.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://ogusers.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "onverse.com",
+      "url": "https://onverse.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "opencsgo.com",
+      "url": "https://opencsgo.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "opensubtitles.org",
+      "url": "https://www.opensubtitles.org/en/search/subs",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "ordersnapp.com",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://ordersnapp.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "ordineavvocatiroma.it",
+      "url": "https://www.ordineavvocatiroma.it/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "ovh.com",
+      "url": "https://www.ovhcloud.com/en-ca/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "oxfam.org.au",
+      "url": "https://www.oxfam.org.au/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "paddypower.com",
+      "url": "https://paddypower.com/",
+      "ok": false,
+      "status": 403,
+      "statusText": "Forbidden"
+    },
+    {
+      "domain": "paragoncheats.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://paragoncheats.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "parapa.mail.ru",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://parapa.mail.ru/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "parkmobile.io",
+      "url": "https://parkmobile.io/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "patreon.com",
+      "url": "https://www.patreon.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "payasugym.com",
+      "url": "https://www.hussle.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "payhere.lk",
+      "url": "https://payhere.lk/",
+      "ok": false,
+      "status": 403,
+      "statusText": "Forbidden"
+    },
+    {
+      "domain": "paytm.com",
+      "url": "https://paytm.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "peatix.com",
+      "url": "https://peatix.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "pemiblanc.com",
+      "error": "page.goto: SSL_ERROR_UNKNOWN\n=========================== logs ===========================\nnavigating to \"https://pemiblanc.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "peoplesenergy.co.uk",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://peoplesenergy.co.uk/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "petflow.com",
+      "url": "https://www.petflow.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "phonehouse.es",
+      "url": "https://www.phonehouse.es/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "phpfreaks.com",
+      "error": "page.goto: NS_ERROR_CONNECTION_REFUSED\n=========================== logs ===========================\nnavigating to \"https://phpfreaks.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "pixelfederation.com",
+      "url": "https://portal.pixelfederation.com/en/company",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "pixlr.com",
+      "url": "https://pixlr.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "pizap.com",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://pizap.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "pizza.dominos.be",
+      "url": "https://www.dominos.be/nl",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "planet-ice.co.uk",
+      "url": "https://planet-ice.co.uk/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "planetcalypsoforum.com",
+      "url": "https://www.planetcalypsoforum.com/forum/index.php",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "play-gar.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://play-gar.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "playbook.vc",
+      "url": "https://playbook.vc/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "plex.tv",
+      "url": "https://www.plex.tv/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "pluto.tv",
+      "url": "https://pluto.tv/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "pokebip.com",
+      "url": "https://www.pokebip.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "pokemoncreed.net",
+      "url": "https://pokemoncreed.net/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "pokemonnegro.com",
+      "url": "https://pokemonnegro.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "policeone.com",
+      "url": "https://www.police1.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "poshmark.com",
+      "url": "https://poshmark.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "powerbot.org",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://powerbot.org/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "ppcgeeks.com",
+      "url": "https://www.ppcgeeks.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "preen.me",
+      "url": "https://preenme.typeform.com/to/kgTEgObU",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "proctoru.com",
+      "url": "https://www.proctoru.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "programmingforums.org",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://programmingforums.org/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "promo.com",
+      "url": "https://promo.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "promofarma.com",
+      "url": "https://www.promofarma.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "proptiger.com",
+      "url": "https://www.proptiger.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "protemps.com.sg",
+      "url": "https://protemps.com.sg/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "ps3hax.net",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://ps3hax.net/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "pspiso.com",
+      "url": "https://pspiso.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "psx-scene.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://psx-scene.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "qip.ru",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://qip.ru/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "qnb.com",
+      "url": "https://qnb.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "quantumbooter.net",
+      "error": "page.goto: SSL_ERROR_UNKNOWN\n=========================== logs ===========================\nnavigating to \"https://quantumbooter.net/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "questionpro.com",
+      "url": "https://www.questionpro.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "quidd.co",
+      "url": "https://market.onquidd.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "quinstreet.com",
+      "url": "https://www.quinstreet.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "r2games.com",
+      "url": "https://www.r2games.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "rambler.ru",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://rambler.ru/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "rankwatch.com",
+      "url": "https://www.rankwatch.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "raychat.ir",
+      "url": "https://raychat.io/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "rbx.rocks",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://rbx.rocks/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "readnovel.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://readnovel.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "realdudesinc.com",
+      "url": "https://www.realdudesinc.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "realestatemogul.com",
+      "url": "https://realestatemogul.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "reddoorz.com",
+      "url": "https://www.reddoorz.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "redmart.lazada.sg",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://redmart.lazada.sg/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "reincubate.com",
+      "url": "https://reincubate.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "retinax.com",
+      "error": "page.goto: SSL_ERROR_UNKNOWN\n=========================== logs ===========================\nnavigating to \"https://retinax.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "reverbnation.com",
+      "url": "https://www.reverbnation.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "rivercitymediaonline.com",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://rivercitymediaonline.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "robinhood.com",
+      "url": "https://robinhood.com/us/en/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "roll20.net",
+      "url": "https://roll20.net/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "romwe.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://romwe.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "rosebuttboard.com",
+      "url": "https://www.rosebuttboard.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "royalenfield.com",
+      "url": "https://www.royalenfield.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "russianamerica.com",
+      "error": "page.goto: NS_ERROR_CONNECTION_REFUSED\n=========================== logs ===========================\nnavigating to \"https://russianamerica.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "sayweee.com",
+      "url": "https://www.sayweee.com/en/onboarding",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "scentbird.com",
+      "url": "https://www.scentbird.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "sd42.ca",
+      "url": "https://www.sd42.ca/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "seedpeer.eu",
+      "error": "page.goto: NS_ERROR_CONNECTION_REFUSED\n=========================== logs ===========================\nnavigating to \"https://seedpeer.eu/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "sephora.com.au",
+      "url": "https://www.sephora.com.au/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "serverpact.com",
+      "url": "https://www.serverpact.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "shadi.com",
+      "url": "https://www.shadi.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "sharethis.com",
+      "url": "https://sharethis.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "shein.com",
+      "url": "https://ca.shein.com/?ref=www&rep=dir&ret=ca",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "shitexpress.com",
+      "url": "https://www.shitexpress.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "shockgore.com",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://shockgore.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "shopback.com",
+      "url": "https://corporate.shopback.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "shopperplus.ca",
+      "url": "https://www.shopperplus.ca/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "short-edition.com",
+      "url": "https://short-edition.com/en/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "shotbow.net",
+      "url": "https://shotbow.net/forum/portal/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "siae.it",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://siae.it/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "sirhurt.net",
+      "error": "page.goto: NS_ERROR_CONNECTION_REFUSED\n=========================== logs ===========================\nnavigating to \"https://sirhurt.net/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "sitepoint.com",
+      "url": "https://www.sitepoint.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "sktorrent.eu",
+      "url": "https://sktorrent.eu/torrent/torrents_v2.php?active=0",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "slickwraps.com",
+      "url": "https://www.slickwraps.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "slideteam.net",
+      "url": "https://www.slideteam.net/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "smogon.com",
+      "url": "https://www.smogon.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "snail.com",
+      "url": "https://snail.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "snapchat.com",
+      "url": "https://www.snapchat.com/en-US",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "socialengineered.net",
+      "error": "page.goto: SSL_ERROR_UNKNOWN\n=========================== logs ===========================\nnavigating to \"https://socialengineered.net/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "solomid.net",
+      "url": "https://solomid.net/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "sonicbids.com",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://sonicbids.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "sony.com",
+      "url": "https://www.sony.com/en/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "soundwave.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://soundwave.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "specials.mastercard.de",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://specials.mastercard.de/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "spirol.com",
+      "url": "https://spirol.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "sprashivai.ru",
+      "error": "page.goto: SEC_ERROR_UNKNOWN\n=========================== logs ===========================\nnavigating to \"https://sprashivai.ru/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "spyfone.com",
+      "url": "https://www.spyphone.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "staminus.net",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://staminus.net/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "starnet.md",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://starnet.md/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "start.film",
+      "url": "https://start.film/en",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "startribune.com",
+      "url": "https://www.startribune.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "sterkinekor.co.za",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://sterkinekor.co.za/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "stockx.com",
+      "url": "https://stockx.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "storybird.com",
+      "url": "https://storybird.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "straffic.io",
+      "url": "https://straffic.io/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "stratfor.com",
+      "url": "https://worldview.stratfor.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "streeteasy.com",
+      "url": "https://streeteasy.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "stripchat.com",
+      "url": "https://stripchat.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "strongholdkingdoms.com",
+      "url": "https://strongholdkingdoms.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "subagames.com",
+      "url": "https://subagames.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "sumotorrent.sx",
+      "url": "https://sumotorrent.sx/",
+      "ok": false,
+      "status": 521,
+      "statusText": "No Reason Phrase"
+    },
+    {
+      "domain": "sundryfiles.com",
+      "url": "https://sundryfiles.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "svenskamagic.com",
+      "url": "https://www.svenskamagic.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "sweclockers.com",
+      "url": "https://www.sweclockers.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "swvl.com",
+      "url": "https://www.swvl.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "tailieu.vn",
+      "url": "https://tailieu.vn/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "tamodo.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://tamodo.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "taobao.com",
+      "url": "https://world.taobao.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "taringa.net",
+      "url": "https://www.taringa.net/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "technicpack.net",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://technicpack.net/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "teespring.com",
+      "url": "https://teespring.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "teracod.org",
+      "url": "https://teracod.org/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "tesco.com",
+      "url": "https://www.tesco.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "texasgop.org",
+      "url": "https://texasgop.org/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "tgbus.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://tgbus.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "thecandidboard.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://thecandidboard.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "thefappening.so",
+      "url": "https://thefappeningblog.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "theflyonthewall.com",
+      "url": "https://theflyonthewall.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "thegradcafe.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://thegradcafe.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "thehalloweenspot.com",
+      "url": "https://www.thehalloweenspot.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "thetvdb.com",
+      "url": "https://thetvdb.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "thewarinc.com",
+      "error": "page.goto: NS_ERROR_CONNECTION_REFUSED\n=========================== logs ===========================\nnavigating to \"https://thewarinc.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "thingiverse.com",
+      "url": "https://www.thingiverse.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "thishabboforum.com",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://thishabboforum.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "tianya.cn",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://tianya.cn/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "ticketcounter.nl",
+      "url": "https://ticketcounter.nl/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "ticketfly.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://ticketfly.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "tokopedia.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://tokopedia.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "toondoo.com",
+      "error": "page.goto: NS_ERROR_CONNECTION_REFUSED\n=========================== logs ===========================\nnavigating to \"https://toondoo.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "torrent-invites.com",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://torrent-invites.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "tout.com",
+      "url": "http://ww38.tout.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "trai.gov.in",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://trai.gov.in/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "travelio.com",
+      "url": "https://www.travelio.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "travelok.com",
+      "url": "https://www.travelok.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "trillian.im",
+      "url": "https://trillian.im/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "truckersmp.com",
+      "url": "https://truckersmp.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "truefire.com",
+      "url": "https://truefire.com/online-guitar-lessons",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "truthfinder.com",
+      "url": "https://www.truthfinder.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "tumblr.com",
+      "url": "https://www.tumblr.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "tunedglobal.com",
+      "url": "https://www.tunedglobal.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "twitter.com",
+      "url": "https://twitter.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "uiggy.com",
+      "error": "page.goto: SSL_ERROR_UNKNOWN\n=========================== logs ===========================\nnavigating to \"https://uiggy.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "ulmon.com",
+      "url": "https://www.ticketlens.com/en/magazine/citymaps2go-ulmon-review",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "underworldempireforums.com",
+      "url": "https://www.underworldempireforums.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "unicocampania.it",
+      "url": "https://www.unicocampania.it/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "universarium.org",
+      "url": "https://universarium.org/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "universityofcalifornia.edu",
+      "url": "https://universityofcalifornia.edu/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "unrealengine.com",
+      "url": "https://www.unrealengine.com/en-US",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "upstox.com",
+      "url": "https://upstox.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "utahgunexchange.com",
+      "url": "https://utahgunexchange.com/",
+      "ok": false,
+      "status": 403,
+      "statusText": "Forbidden"
+    },
+    {
+      "domain": "utorrent.com",
+      "url": "https://www.utorrent.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "uuu9.com",
+      "url": "https://uuu9.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "vakinha.com.br",
+      "url": "https://www.vakinha.com.br/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "vastaamo.fi",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://vastaamo.fi/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "vbulletin.com",
+      "url": "https://www.vbulletin.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "vedantu.com",
+      "url": "https://www.vedantu.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "verifications.io",
+      "url": "http://ww12.verifications.io/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "verified.cm",
+      "error": "page.goto: SSL_ERROR_UNKNOWN\n=========================== logs ===========================\nnavigating to \"https://verified.cm/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "vianet.com.np",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://vianet.com.np/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "victoryphones.com",
+      "url": "https://www.victoryphones.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "viewfines.co.za",
+      "url": "https://viewfines.co.za/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "vk.com",
+      "url": "https://vk.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "vodafone.is",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://vodafone.is/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "void.to",
+      "url": "https://void.to/",
+      "ok": false,
+      "status": 521,
+      "statusText": "No Reason Phrase"
+    },
+    {
+      "domain": "vtechda.com",
+      "url": "https://vtechda.com/",
+      "ok": false,
+      "status": 403,
+      "statusText": "Forbidden"
+    },
+    {
+      "domain": "vtightgel.com",
+      "url": "https://buyhealth.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "wakanim.tv",
+      "url": "https://www.wakanim.tv/fr/v2",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "wanelo.com",
+      "url": "https://wanelo.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "warframe.com",
+      "url": "https://www.warframe.com/landing",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "warmane.com",
+      "url": "https://www.warmane.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "wattpad.com",
+      "url": "https://www.wattpad.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "wedmegood.com",
+      "url": "https://www.wedmegood.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "weheartit.com",
+      "url": "https://weheartit.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "weleakinfo.com",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://weleakinfo.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "wendys.com.ph",
+      "url": "https://wendys.com.ph/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "whitepages.com",
+      "url": "https://www.whitepages.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "whmcs.com",
+      "url": "https://www.whmcs.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "wifelovers.com",
+      "url": "https://www.wifelovers.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "wiiuiso.com",
+      "url": "https://wiiuiso.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "wildstar-online.com",
+      "url": "https://us.ncsoft.com/en-us",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "win7vista.com",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://win7vista.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "wishbone.io",
+      "error": "page.goto: SSL_ERROR_BAD_CERT_DOMAIN\n=========================== logs ===========================\nnavigating to \"https://wishbone.io/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "wizishop.fr",
+      "url": "https://www.wizishop.fr/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "wongnai.com",
+      "url": "https://www.wongnai.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "wpsandbox.io",
+      "url": "https://wpsandbox.io/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "wptapl.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://wptapl.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "xat.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://xat.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "xbox360iso.com",
+      "error": "page.goto: SSL_ERROR_UNKNOWN\n=========================== logs ===========================\nnavigating to \"https://xbox360iso.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "xboxscene.com",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://xboxscene.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "xhamster.com",
+      "url": "https://xhamster.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "xiaomi.cn",
+      "url": "https://www.xiaomi.cn/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "xkcd.com",
+      "url": "https://xkcd.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "xpgamesaves.com",
+      "url": "https://www.xpgamesaves.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "xsplit.com",
+      "url": "https://www.xsplit.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "yahoo.com",
+      "url": "https://ca.yahoo.com/?p=us",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "yam.com",
+      "url": "https://www.yam.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "yatra.com",
+      "url": "https://www.yatra.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "yotepresto.com",
+      "url": "https://www.yotepresto.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "youku.com",
+      "error": "page.goto: Timeout 10000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://youku.com/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "younow.com",
+      "url": "https://www.younow.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "youporn.com",
+      "url": "https://www.youporn.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "zap-hosting.com",
+      "url": "https://zap-hosting.com/en/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "zhenai.com",
+      "url": "https://www.zhenai.com//",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "zing.vn",
+      "url": "https://zingnews.vn/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "zomato.com",
+      "url": "https://www.zomato.com/parksville-bc/goodbye",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "zoomcar.com",
+      "url": "https://www.zoomcar.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "zoosk.com",
+      "url": "https://www.zoosk.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "zooville.org",
+      "url": "https://www.zoovilleforum.net/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    },
+    {
+      "domain": "zurich.co.jp",
+      "error": "page.goto: NS_ERROR_UNKNOWN_HOST\n=========================== logs ===========================\nnavigating to \"https://zurich.co.jp/\", waiting until \"load\"\n============================================================"
+    },
+    {
+      "domain": "zynga.com",
+      "url": "https://www.zynga.com/",
+      "ok": true,
+      "status": 200,
+      "statusText": "OK"
+    }
+  ]
+}

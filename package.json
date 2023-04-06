@@ -22,7 +22,9 @@
   },
   "scripts": {
     "redirects": "node redirects > redirects.md",
-    "reporter": "node reporter > README.md",
+    "reporter": "npm run reporter:https && npm run reporter:http",
+    "reporter:https": "node reporter > README.md",
+    "reporter:http": "PROTOCOL=http node reporter > README-http.md",
     "start": "time node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

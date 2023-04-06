@@ -10,7 +10,7 @@ function groupByStatus(results = {}) {
   const domainsByStatus = _groupBy(results, "status");
   console.log("\n\n# SUCCESS(ish)");
   for (const [code, domains] of Object.entries(domainsByStatus)) {
-    console.log(code);
+    console.log(`- ${code}`);
     for (const res of domains) {
       console.log(`  - [${res.status}/${res.statusText}] ${res.domain} -- ${res.url}`);
     }

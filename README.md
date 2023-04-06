@@ -1,7 +1,7 @@
 
 
 # SUCCESS(ish)
-200
+- 200
   - [200/OK] 123rf.com -- https://www.123rf.com/
   - [200/OK] 126.com -- https://126.com/
   - [200/OK] 2fast4u.be -- https://2fast4u.be/
@@ -450,9 +450,9 @@
   - [200/OK] zoosk.com -- https://www.zoosk.com/
   - [200/OK] zooville.org -- https://www.zoovilleforum.net/
   - [200/OK] zynga.com -- https://www.zynga.com/
-203
+- 203
   - [203/Non Authoritative] kiwifarms.net -- https://kiwifarms.net/
-403
+- 403
   - [403/Forbidden] 000webhost.com -- https://000webhost.com/
   - [403/Forbidden] akparti.org.tr -- https://akparti.org.tr/
   - [403/Forbidden] blackspigot.com -- https://blackspigot.com/
@@ -467,17 +467,17 @@
   - [403/Forbidden] payhere.lk -- https://payhere.lk/
   - [403/Forbidden] utahgunexchange.com -- https://utahgunexchange.com/
   - [403/Forbidden] vtechda.com -- https://vtechda.com/
-404
+- 404
   - [404/Not Found] justdate.com -- https://justdate.com/
   - [404/Not Found] moneybookers.com -- https://www.moneybookers.com/app/
-406
+- 406
   - [406/Not Acceptable] hdbfs.com -- https://www.hdbfs.com/
-500
+- 500
   - [500/Internal Server Error] hurb.com -- https://www.hurb.com/ca/
-521
+- 521
   - [521/No Reason Phrase] sumotorrent.sx -- https://sumotorrent.sx/
   - [521/No Reason Phrase] void.to -- https://void.to/
-526
+- 526
   - [526/No Reason Phrase] hackingteam.com -- https://hackingteam.com/
   - [526/No Reason Phrase] lightshope.org -- https://lightshope.org/
 

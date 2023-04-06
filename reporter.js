@@ -24,11 +24,13 @@ function groupByStatus(results = []) {
   for (const [code, domains] of Object.entries(domainsByStatus)) {
     console.log("<details>");
     console.log(`<summary>${code} (${domains.length})</summary>\n`);
+    console.log("STATUS | DOMAIN | BREACH DATE | URL\n:----:|:----|:----:|:----")
     for (const res of domains) {
-      console.log(`  - [${res.status}/${res.statusText}] ${res.domain} -- ${res.url} (${getBreachDatesByDomain(res.domain)})`);
+      console.log(`${res.status}/${res.statusText} | ${res.domain} | ${getBreachDatesByDomain(res.domain)} | ${res.url}`);
     }
     console.log("</details>");
   }
+  console.log("---\n\n");
 }
 
 function groupByErrors(results=[]) {
@@ -41,11 +43,13 @@ function groupByErrors(results=[]) {
   for (const [code, domains] of Object.entries(errorsByCode)) {
     console.log("<details>");
     console.log(`<summary>${code.replace(/^page.goto:/, "").trim()} (${domains.length})</summary>\n`);
+    console.log("DOMAIN | BREACH DATE\n:----|:----:");
     for (const { domain } of domains) {
-      console.log(`  - ${domain} (${getBreachDatesByDomain(domain)})`);
+      console.log(`${domain} | ${getBreachDatesByDomain(domain)}`);
     }
     console.log("</details>")
   }
+  console.log("---\n\n");
 }
 
 async function getBreaches() {

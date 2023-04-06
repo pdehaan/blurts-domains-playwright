@@ -25,7 +25,7 @@ function groupByErrors(results={}) {
   const errorsByCode = _groupBy(hasErrors, "error");
   console.log("\n\n# ERRORS");
   for (const [code, domains] of Object.entries(errorsByCode)) {
-    console.log(code.replace(/^page.goto:/, "").trim());
+    console.log(`- ${code.replace(/^page.goto:/, "").trim()}`);
     for (const { domain } of domains) {
       console.log(`  - ${domain}`);
     }

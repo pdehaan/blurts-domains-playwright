@@ -483,7 +483,7 @@
 
 
 # ERRORS
-Timeout 10000ms exceeded.
+- Timeout 10000ms exceeded.
   - 163.com
   - 17173.com
   - 500px.com
@@ -549,7 +549,7 @@ Timeout 10000ms exceeded.
   - wptapl.com
   - xat.com
   - youku.com
-NS_ERROR_UNKNOWN_HOST
+- NS_ERROR_UNKNOWN_HOST
   - 17app.co
   - astropid.com
   - bolt.cd
@@ -580,7 +580,7 @@ NS_ERROR_UNKNOWN_HOST
   - weleakinfo.com
   - xboxscene.com
   - zurich.co.jp
-NS_ERROR_CONNECTION_REFUSED
+- NS_ERROR_CONNECTION_REFUSED
   - abandonia.com
   - blackberryfans.org
   - btc-e.com
@@ -597,7 +597,7 @@ NS_ERROR_CONNECTION_REFUSED
   - sirhurt.net
   - thewarinc.com
   - toondoo.com
-SSL_ERROR_BAD_CERT_DOMAIN
+- SSL_ERROR_BAD_CERT_DOMAIN
   - adapt.io
   - artvalue.com
   - bombuj.eu
@@ -619,7 +619,7 @@ SSL_ERROR_BAD_CERT_DOMAIN
   - vastaamo.fi
   - win7vista.com
   - wishbone.io
-SSL_ERROR_UNKNOWN
+- SSL_ERROR_UNKNOWN
   - agusiq-torrents.pl
   - ahashare.com
   - aitype.com
@@ -637,11 +637,11 @@ SSL_ERROR_UNKNOWN
   - uiggy.com
   - verified.cm
   - xbox360iso.com
-SEC_ERROR_EXPIRED_CERTIFICATE
+- SEC_ERROR_EXPIRED_CERTIFICATE
   - bigmoneyjobs.com
   - exactis.com
   - netprospex.com
-NS_ERROR_NET_INTERRUPT
+- NS_ERROR_NET_INTERRUPT
   - edmodo.com
-SEC_ERROR_UNKNOWN
+- SEC_ERROR_UNKNOWN
   - sprashivai.ru

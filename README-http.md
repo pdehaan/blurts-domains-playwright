@@ -1,7 +1,9 @@
 
 
 # SUCCESS(ish) (523)
-- 200 (497)
+<details>
+<summary>200 (497)</summary>
+
   - [200/OK] 123rf.com -- https://www.123rf.com/
   - [200/OK] 126.com -- https://126.com/
   - [200/OK] 2fast4u.be -- https://2fast4u.be/
@@ -499,7 +501,10 @@
   - [200/OK] zoosk.com -- https://www.zoosk.com/
   - [200/OK] zooville.org -- https://www.zoovilleforum.net/
   - [200/OK] zynga.com -- https://www.zynga.com/
-- 403 (16)
+</details>
+<details>
+<summary>403 (16)</summary>
+
   - [403/Forbidden] 000webhost.com -- http://000webhost.com/
   - [403/Forbidden] akparti.org.tr -- http://akparti.org.tr/
   - [403/Forbidden] blackspigot.com -- https://blackspigot.com/
@@ -516,24 +521,39 @@
   - [403/Forbidden] petflow.com -- http://petflow.com/
   - [403/Forbidden] utahgunexchange.com -- https://utahgunexchange.com/
   - [403/Forbidden] viewfines.co.za -- http://viewfines.co.za/
-- 404 (6)
+</details>
+<details>
+<summary>404 (6)</summary>
+
   - [404/Not Found] factual.com -- http://factual.com/
   - [404/Not Found] fashionnexus.co.uk -- http://fashionnexus.co.uk/
   - [404/Not Found] justdate.com -- http://justdate.com/
   - [404/Not Found] mac-torrents.com -- http://mac-torrents.com/
   - [404/Not Found] moneybookers.com -- https://www.moneybookers.com/app/
   - [404/Not Found] vtechda.com -- http://vtechda.com/
-- 406 (1)
+</details>
+<details>
+<summary>406 (1)</summary>
+
   - [406/Not Acceptable] hdbfs.com -- https://www.hdbfs.com/
-- 500 (1)
+</details>
+<details>
+<summary>500 (1)</summary>
+
   - [500/Internal Server Error] hurb.com -- https://www.hurb.com/ca/
-- 521 (2)
+</details>
+<details>
+<summary>521 (2)</summary>
+
   - [521/] sumotorrent.sx -- http://sumotorrent.sx/
   - [521/No Reason Phrase] void.to -- https://void.to/
+</details>
 
 
 # ERRORS (102)
-- Timeout 10000ms exceeded. (66)
+<details>
+<summary>Timeout 10000ms exceeded. (66)</summary>
+
   - 163.com
   - 17173.com
   - OwnedCore.com
@@ -600,7 +620,10 @@
   - wiiuiso.com
   - xbox360iso.com
   - youku.com
-- NS_ERROR_UNKNOWN_HOST (30)
+</details>
+<details>
+<summary>NS_ERROR_UNKNOWN_HOST (30)</summary>
+
   - 17app.co
   - astropid.com
   - bolt.cd
@@ -631,13 +654,26 @@
   - weleakinfo.com
   - xboxscene.com
   - zurich.co.jp
-- NS_ERROR_CONNECTION_REFUSED (2)
+</details>
+<details>
+<summary>NS_ERROR_CONNECTION_REFUSED (2)</summary>
+
   - kiwifarms.net
   - thewarinc.com
-- SEC_ERROR_EXPIRED_CERTIFICATE (1)
+</details>
+<details>
+<summary>SEC_ERROR_EXPIRED_CERTIFICATE (1)</summary>
+
   - netprospex.com
-- SSL_ERROR_BAD_CERT_DOMAIN (2)
+</details>
+<details>
+<summary>SSL_ERROR_BAD_CERT_DOMAIN (2)</summary>
+
   - specials.mastercard.de
   - vastaamo.fi
-- NS_ERROR_NET_RESET (1)
+</details>
+<details>
+<summary>NS_ERROR_NET_RESET (1)</summary>
+
   - ticketfly.com
+</details>

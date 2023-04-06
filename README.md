@@ -1,7 +1,9 @@
 
 
 # SUCCESS(ish) (471)
-- 200 (448)
+<details>
+<summary>200 (448)</summary>
+
   - [200/OK] 123rf.com -- https://www.123rf.com/
   - [200/OK] 126.com -- https://126.com/
   - [200/OK] 2fast4u.be -- https://2fast4u.be/
@@ -450,9 +452,15 @@
   - [200/OK] zoosk.com -- https://www.zoosk.com/
   - [200/OK] zooville.org -- https://www.zoovilleforum.net/
   - [200/OK] zynga.com -- https://www.zynga.com/
-- 203 (1)
+</details>
+<details>
+<summary>203 (1)</summary>
+
   - [203/Non Authoritative] kiwifarms.net -- https://kiwifarms.net/
-- 403 (14)
+</details>
+<details>
+<summary>403 (14)</summary>
+
   - [403/Forbidden] 000webhost.com -- https://000webhost.com/
   - [403/Forbidden] akparti.org.tr -- https://akparti.org.tr/
   - [403/Forbidden] blackspigot.com -- https://blackspigot.com/
@@ -467,23 +475,41 @@
   - [403/Forbidden] payhere.lk -- https://payhere.lk/
   - [403/Forbidden] utahgunexchange.com -- https://utahgunexchange.com/
   - [403/Forbidden] vtechda.com -- https://vtechda.com/
-- 404 (2)
+</details>
+<details>
+<summary>404 (2)</summary>
+
   - [404/Not Found] justdate.com -- https://justdate.com/
   - [404/Not Found] moneybookers.com -- https://www.moneybookers.com/app/
-- 406 (1)
+</details>
+<details>
+<summary>406 (1)</summary>
+
   - [406/Not Acceptable] hdbfs.com -- https://www.hdbfs.com/
-- 500 (1)
+</details>
+<details>
+<summary>500 (1)</summary>
+
   - [500/Internal Server Error] hurb.com -- https://www.hurb.com/ca/
-- 521 (2)
+</details>
+<details>
+<summary>521 (2)</summary>
+
   - [521/No Reason Phrase] sumotorrent.sx -- https://sumotorrent.sx/
   - [521/No Reason Phrase] void.to -- https://void.to/
-- 526 (2)
+</details>
+<details>
+<summary>526 (2)</summary>
+
   - [526/No Reason Phrase] hackingteam.com -- https://hackingteam.com/
   - [526/No Reason Phrase] lightshope.org -- https://lightshope.org/
+</details>
 
 
 # ERRORS (154)
-- Timeout 10000ms exceeded. (65)
+<details>
+<summary>Timeout 10000ms exceeded. (65)</summary>
+
   - 163.com
   - 17173.com
   - 500px.com
@@ -549,7 +575,10 @@
   - wptapl.com
   - xat.com
   - youku.com
-- NS_ERROR_UNKNOWN_HOST (30)
+</details>
+<details>
+<summary>NS_ERROR_UNKNOWN_HOST (30)</summary>
+
   - 17app.co
   - astropid.com
   - bolt.cd
@@ -580,7 +609,10 @@
   - weleakinfo.com
   - xboxscene.com
   - zurich.co.jp
-- NS_ERROR_CONNECTION_REFUSED (16)
+</details>
+<details>
+<summary>NS_ERROR_CONNECTION_REFUSED (16)</summary>
+
   - abandonia.com
   - blackberryfans.org
   - btc-e.com
@@ -597,7 +629,10 @@
   - sirhurt.net
   - thewarinc.com
   - toondoo.com
-- SSL_ERROR_BAD_CERT_DOMAIN (21)
+</details>
+<details>
+<summary>SSL_ERROR_BAD_CERT_DOMAIN (21)</summary>
+
   - adapt.io
   - artvalue.com
   - bombuj.eu
@@ -619,7 +654,10 @@
   - vastaamo.fi
   - win7vista.com
   - wishbone.io
-- SSL_ERROR_UNKNOWN (17)
+</details>
+<details>
+<summary>SSL_ERROR_UNKNOWN (17)</summary>
+
   - agusiq-torrents.pl
   - ahashare.com
   - aitype.com
@@ -637,11 +675,21 @@
   - uiggy.com
   - verified.cm
   - xbox360iso.com
-- SEC_ERROR_EXPIRED_CERTIFICATE (3)
+</details>
+<details>
+<summary>SEC_ERROR_EXPIRED_CERTIFICATE (3)</summary>
+
   - bigmoneyjobs.com
   - exactis.com
   - netprospex.com
-- NS_ERROR_NET_INTERRUPT (1)
+</details>
+<details>
+<summary>NS_ERROR_NET_INTERRUPT (1)</summary>
+
   - edmodo.com
-- SEC_ERROR_UNKNOWN (1)
+</details>
+<details>
+<summary>SEC_ERROR_UNKNOWN (1)</summary>
+
   - sprashivai.ru
+</details>
